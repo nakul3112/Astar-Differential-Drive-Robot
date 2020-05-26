@@ -8,7 +8,7 @@ The goal of this project is to implement A* alogithm for a differential drive ro
 
 This repository contains following files:
 1) src (ROS Package)
-2) Output Video of simulation
+2) Output Videos of simulation
 3) Readme file
 
 
@@ -21,8 +21,22 @@ This repository contains following files:
 * OpenCV 3.x
 * Matplotlib
 
+### See how it works:
 
-## 1.3 Instructions to run the code.
+This is a short animation of the Astar algorithm running on Turtlebot from a start position to end position(both are user specified) in the Gazebo world.
+
+<img src="output/p3_astar.gif" width="800">
+
+
+## 1.3 Output Videos
+
+The output videos can be accesses here:
+
+[Output videos](https://drive.google.com/open?id=1dPJoDLH53zhUDIkiafWWa4PV7IaY8qO1)
+
+
+
+## 1.4 Instructions to run the code.
 
 First, clone the repository into some folder.
 
@@ -61,12 +75,6 @@ Now, to manually enter the x and y coordinates of start and goal points, the gaz
 
 After the last step, you can manually enter the x and y coordinates of start and goal points, and see the simulation in Gazebo, but as soon as you enter the coordinates, the matplotlib window will open showing the obstacle space and the start and goal points, so close that window and after that, again nodes exploration window will open, close this recent window and finally you will see the simulation running in Gazebo.
 
-
-## 1.4 Output Video
-
-The output video can be accesses here:
-
-[Output video](https://drive.google.com/open?id=1dPJoDLH53zhUDIkiafWWa4PV7IaY8qO1)
 
 
 
