@@ -30,7 +30,7 @@ This is a short animation of the Astar algorithm running on Turtlebot from a sta
 
 ## 1.3 Output Videos
 
-The output videos can be accesses here:
+The output videos can be accessed here:
 
 [Output videos](https://drive.google.com/open?id=1dPJoDLH53zhUDIkiafWWa4PV7IaY8qO1)
 
